@@ -6,7 +6,7 @@
 - 😄 My name is Adi. I am a developer who likes to play around and discover new ideas while having fun
 - 🌱 Loves adventuring to unknown worlds physically and virtually 
 - 📫 How to reach me: adinatatan99@gmail.com
-- 🗺️ Have adventuring in my repository!
+- 🗺️ Have fun adventuring in my repository!
 
 <img width="500px" alt="Enjoy your adventure here :D" src="https://raw.githubusercontent.com/adinata15/adinata15/master/assets/adventure_time.gif">
 
