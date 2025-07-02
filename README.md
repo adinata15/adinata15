@@ -1,7 +1,6 @@
-<div align="center">
-<img width="300px" alt="Happy monkey adventurer" src="https://raw.githubusercontent.com/adinata15/adinata15/master/assets/monkey.jpg">
-</div>
-
+<!-- <div align="center"> -->
+<!-- <img width="300px" alt="Happy monkey adventurer" src="https://raw.githubusercontent.com/adinata15/adinata15/master/assets/monkey.jpg"> -->
+<!-- </div> -->
 ### Hi there! 👋
 - 😄 My name is Adi. I am a developer who likes to play around and discover new ideas while having fun
 - 🌱 Loves adventuring to unknown worlds physically and virtually 
